@@ -1,4 +1,4 @@
-[![MasterHead](https://www.edtechemma.com/single-post/2020/06/08/decorate-your-google-classroom-with-custom-banners)](https://karabil.io)
+[![MasterHead]([https://www.edtechemma.com/single-post/2020/06/08/decorate-your-google-classroom-with-custom-banners](https://static.wixstatic.com/media/c8c0d3_4cd72d2ddaa948339b7b98fb87f6066b~mv2.gif))](https://karabil.io)
 
 <h1 align="center">Hi 👋, I'm Shay Panuilov</h1>
 <h3 align="center">A passionate android developer from Israel</h3>
