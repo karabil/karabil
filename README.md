@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karabil&label=Profile%20views&color=0e75b6&style=flat" alt="karabil" /> </p>
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **Flutter, JavaScript, C++**
 
 - 👨‍💻 All of my projects are available at [karabil.github.io](karabil.github.io)
 
