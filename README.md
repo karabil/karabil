@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **shay@scheduler-systems.com**
 
-- 📫 Website  <a href="https://scheduler-systems.com" target="_blank">**scheduler-systems.com**</a>
+- 📫 Website  <a href="https://scheduler-systems.com" target="_blank" rel="noreferrer">**scheduler-systems.com**</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
