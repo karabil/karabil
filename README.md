@@ -40,10 +40,3 @@
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/566/36/png-transparent-app-store-iphone-apple-app-store-icon-blue-text-mobile-phones-thumbnail.png" alt="apple developer" width="40" height="40"/> </a>
 <!-- apple developer -->
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karabil&show_icons=true&locale=en&layout=compact" alt="karabil" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karabil&show_icons=true&locale=en" alt="karabil" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karabil&" alt="karabil" /></p>
